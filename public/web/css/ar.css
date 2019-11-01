@@ -1,0 +1,38 @@
+/* blog-image */
+body {
+    font-size: 15px;
+    height: 100vh;
+    overflow: auto;
+    font-weight: 300;
+    font-family: 'Droid Arabic Kufi', sans-serif !important;
+    line-height: 1.5;
+}
+.comment .reply{
+    left: 0 !important;
+    right: auto !important;
+}
+.comment-avatar{
+    margin-left: 2.5rem;
+}
+
+
+/* home */
+.promo__content{
+    text-align: right !important ;
+    right: 3rem !important;
+}
+
+/* footer */
+.contact-li{
+    padding-right: 4rem;
+}
+
+/* product details */
+.product-details-content .ratings{
+    margin-right:0 !important;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 500 !important;
+    color: #ffffff !important;
+    font-family: "Prata", sans-serif !important;
+}
